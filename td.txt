@@ -1,2 +1,6 @@
 This is a test to see if you get this file
+<<<<<<< HEAD
 I turn coffee into code Joel
+=======
+hello world abdul
+>>>>>>> 11c53b3b60ef4937cb8575a05dd8feb42b7f60b3
