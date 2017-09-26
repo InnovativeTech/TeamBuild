@@ -1,0 +1,49 @@
+<html>
+<head>
+    <title>Matching <Pictures></Pictures></title>
+<script src="https://code.jquery.com/jquery-3.0.0.js"></script>
+    
+</head>
+<body>
+    <div class="wrapper">
+      
+      
+      <h1>Pair The Picture</h1>
+      
+      <table class="choices">
+        <!-- ROW 1 -->
+        <tr>
+          <td><img id="appleOne" class="one" src="#" /></td>
+          <td><img id="microsoftOne" class="two" src="#" /></td>
+          <td><img id="toyotaOne" class="three" src="#" /></td>
+          <td><img id="cocacolaOne" class="four" src="#" /></td>
+        </tr>
+        <!-- ROW 2 -->
+        <tr>
+          <td><img id="cocacolaTwo" class="four" src="#" /></td>
+          <td><img id="toyotaTwo" class="three" src="#" /></td>
+          <td><img id="microsoftTwo" class="two" src="#" /></td>
+          <td><img id="appleTwo" class="one" src="#" /></td>
+        </tr>
+        <tr>
+          <td colspan="4">
+            <!-- NOT USE IMG AS GLOBAL CLICK -->
+            <center>
+            <section id="imgRandomGen"></section>
+            </center>
+          </td>
+        </tr>
+      </table>
+      
+
+      <div class="selection">
+        <div id="player"></div>
+        <div class="cpu"></div>
+      </div>
+      
+      <div class="winner">
+      </div>
+
+    </div>
+</body>
+</html>

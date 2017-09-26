@@ -1,0 +1,111 @@
+body {
+  background-color: white;
+}
+
+.wrapper {
+
+  width: 850px;
+  display: block;
+}
+
+h1 {
+  font-size: 72px;
+  text-align: center;
+  color: red;
+}
+
+.choices {
+  width: 650px;
+  margin: 0 auto;
+
+}
+
+img {
+  width: 150px;
+}
+
+td section {
+  width: 150px;
+  height: 150px;
+
+}
+
+td {
+  text-align: center;
+}
+
+.choices div {
+  height: 125px;
+  width: 125px;
+  display: inline-block;
+  margin-top: 5em;
+
+}
+
+.selection {
+  height: 300px;
+  width: 650px;
+
+  margin: 0 auto;
+  margin-top: 75px;
+}
+
+.selection div {
+  display: inline-block;
+  width: 250px;
+  height: 250px;
+  border: solid 1px black;
+  margin-left: 3em;
+  margin-top: 25px;
+}
+
+
+.winner {
+  display: block;
+
+  height: 200px;
+  text-align: center;
+  font-size: 100;
+  display: none;
+}
+
+#imgRandomGen {
+  background-size: 150px;
+  background-repeat: no-repeat;
+  background-image: url('http://www.iconsdb.com/icons/preview/black/dice-xxl.png')
+}
+
+.selection .one {
+  background-image: url("https://www.apple.com/ac/structured-data/images/knowledge_graph_logo.png?201611302356");
+  background-size: 99%;
+  background-repeat: no-repeat;
+}
+
+.selection .two {
+  background-image: url("http://cms.cintacs.com/Content/Images/orig/5543d47ad56ec8523c7ae8e6.png");
+  background-size: 110%;
+  background-repeat: no-repeat;
+}
+
+.selection .three {
+  background-image: url("https://salekaz.ru/images/toyota.png");
+  background-size: 99%;
+  background-repeat: no-repeat;
+}
+
+.selection .four {
+  background-image: url("http://iconshow.me/media/images/logo/brand-logo-icon/png/512/cocacola-512.png");
+  background-size: 99%;
+  background-repeat: no-repeat;
+}
+
+.selection .undefined {
+  background-image: url("https://www.shareicon.net/data/2016/08/20/817726_close_395x512.png");
+  background-size: 250px 300px;
+  background-repeat: no-repeat;
+}
+
+
+
+
+
