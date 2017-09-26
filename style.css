@@ -72,35 +72,39 @@ td {
 #imgRandomGen {
   background-size: 150px;
   background-repeat: no-repeat;
+<<<<<<< HEAD
   background-image: url('../Pictures/cayde.jpg')
+=======
+  background-image: url("http://www.iconsdb.com/icons/preview/black/dice-xxl.png")
+>>>>>>> 718754c2d400f4f2a533079e5b9bce805e909c02
 }
 
 .selection .one {
-  background-image: url("https://www.apple.com/ac/structured-data/images/knowledge_graph_logo.png?201611302356");
+  background-image: url('https://www.apple.com/ac/structured-data/images/knowledge_graph_logo.png?201611302356');
   background-size: 99%;
   background-repeat: no-repeat;
 }
 
 .selection .two {
-  background-image: url("http://cms.cintacs.com/Content/Images/orig/5543d47ad56ec8523c7ae8e6.png");
+  background-image: url('http://cms.cintacs.com/Content/Images/orig/5543d47ad56ec8523c7ae8e6.png');
   background-size: 110%;
   background-repeat: no-repeat;
 }
 
 .selection .three {
-  background-image: url("https://salekaz.ru/images/toyota.png");
+  background-image: url('https://salekaz.ru/images/toyota.png');
   background-size: 99%;
   background-repeat: no-repeat;
 }
 
 .selection .four {
-  background-image: url("http://iconshow.me/media/images/logo/brand-logo-icon/png/512/cocacola-512.png");
+  background-image: url('http://iconshow.me/media/images/logo/brand-logo-icon/png/512/cocacola-512.png');
   background-size: 99%;
   background-repeat: no-repeat;
 }
 
 .selection .undefined {
-  background-image: url("https://www.shareicon.net/data/2016/08/20/817726_close_395x512.png");
+  background-image: url('https://www.shareicon.net/data/2016/08/20/817726_close_395x512.png');
   background-size: 250px 300px;
   background-repeat: no-repeat;
 }
