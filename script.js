@@ -1,4 +1,4 @@
-$("img").attr("src", "http://image.flaticon.com/icons/png/512/8/8235.png");
+$("img").attr("src", "http://cdn.supercell.com/supercell.com/170921134718/supercell.com/files/og_clashroyale.jpg");
 
 
 $("img").click(function(){
