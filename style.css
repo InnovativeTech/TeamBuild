@@ -72,7 +72,11 @@ td {
 #imgRandomGen {
   background-size: 150px;
   background-repeat: no-repeat;
+<<<<<<< HEAD
+  background-image: url('../Pictures/cayde.jpg')
+=======
   background-image: url("http://www.iconsdb.com/icons/preview/black/dice-xxl.png")
+>>>>>>> 718754c2d400f4f2a533079e5b9bce805e909c02
 }
 
 .selection .one {
