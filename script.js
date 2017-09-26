@@ -1,4 +1,4 @@
-$("img").attr("src", "http://image.flaticon.com/icons/png/512/8/8235.png");
+$("img").attr("src", "8235.png");
 
 
 $("img").click(function(){
